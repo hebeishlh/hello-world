@@ -1,2 +1,2 @@
 # hello-world
-for exercise
+Hi,i am a java-rookie.
